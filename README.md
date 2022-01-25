@@ -1,2 +1,2 @@
-# Contentsquare Artificial Pageview Tag for GTM
+# Contentsquare Page Events Tag for GTM
 Send Page Events to Contentsquare

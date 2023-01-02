@@ -1,5 +1,7 @@
 homepage: "https://contentsquare.com/"
 documentation: "https://docs.contentsquare.com/uxa-en/"
 versions:
+  - sha: 7c5ca0d8d081f577dc17b07a693082b70b7504e7
+    changeNotes: Added option to add additional page events
   - sha: b6925579bfda948c1ae7e05c8c0433e13f566ee5
     changeNotes: First Version
